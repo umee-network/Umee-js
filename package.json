@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Interact with the Umee Blockchain",
   "author": "Ebrahim Elbagory  <ebrahim@umee.cc>",
-  "homepage": "https://github.com/ebrahimumee/UmeeJs#readme",
+  "homepage": "https://github.com/umee-network/Umee-js#readme",
   "license": "SEE LICENSE IN LICENSE",
   "main": "main/index.js",
   "module": "module/index.js",
@@ -37,11 +37,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ebrahimumee/UmeeJs"
+    "url": "https://github.com/umee-network/Umee-js"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/ebrahimumee/UmeeJs/issues"
+    "url": "https://github.com/umee-network/Umee-js/issues"
   },
   "devDependencies": {
     "@babel/cli": "7.18.10",
