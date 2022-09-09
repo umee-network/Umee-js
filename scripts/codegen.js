@@ -27,6 +27,15 @@ telescope({
     rpcClients: {
       enabled: true,
       camelCase: true
+    },
+    packages: {
+      umee: {
+        prototypes: {
+          typingsFormat: {
+            useExact: false
+          }
+        }
+      }
     }
   }
 })
